@@ -1,4 +1,4 @@
-/server/node_modules
-/server/.env
-/url-shortener/node_modules
-/.vscode
+/server/node_modules/
+/server/.env/
+/url-shortener/node_modules/
+/.vscode/
