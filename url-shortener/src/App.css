@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 32px;
+  font-weight: bold;
+  margin: 8px;
+}
+
+.input-container,
+.output-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  align-items: center;
+  margin: 8px;
+}
+.output-input {
+  width: 300px;
+}
